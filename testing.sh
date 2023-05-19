@@ -1,3 +1,2 @@
-echo testing
-echo  testing2
-echo testing3
+echo "Another test in progress for jenkins"
+echo "Testing again with new code"
